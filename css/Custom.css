@@ -234,7 +234,9 @@ h4 {
 
 /* media queries */
 /* Mobile */
-@media (min-width: 466px){
+
+
+@media (min-width: 566px){
     .container, .container-sm {
         max-width: 540px;
     }
